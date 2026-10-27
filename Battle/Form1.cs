@@ -58,7 +58,7 @@ namespace Battle
                 pictureBoxBoom.Location = pictureBoxShip.Location;
                 pictureBoxShip.Visible = false;
                 pictureBoxCanonBall.Visible = false;
-                pictureBoxBoom.Visible = true;
+                pictureBoxBoom.Visible = true; 
                 timerCanonBall.Enabled = false;
                 timerShip.Enabled = false;
 
